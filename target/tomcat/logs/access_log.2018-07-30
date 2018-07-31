@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:20:30:37 -0300] "GET /rest/cursos HTTP/1.1" 200 175 http-bio-9090-exec-4 758
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:20:30:37 -0300] "GET /rest/cursos HTTP/1.1" 200 175 http-bio-9090-exec-2 758
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:20:30:41 -0300] "GET /rest/cursos HTTP/1.1" 200 175 http-bio-9090-exec-5 42
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:20:31:00 -0300] "PATCH /rest/cursos/2 HTTP/1.1" 200 98 http-bio-9090-exec-6 207
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:20:31:05 -0300] "GET /rest/cursos HTTP/1.1" 200 175 http-bio-9090-exec-7 39

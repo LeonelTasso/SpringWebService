@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:17:56:25 -0300] "GET /rest/cursos HTTP/1.1" 200 92 http-bio-9090-exec-2 693
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:17:56:34 -0300] "GET /rest/cursos/1 HTTP/1.1" 200 90 http-bio-9090-exec-3 82
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:17:56:49 -0300] "POST /rest/cursos HTTP/1.1" 400 968 http-bio-9090-exec-4 88
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:17:56:55 -0300] "GET /rest/cursos/2 HTTP/1.1" 200 - http-bio-9090-exec-6 33
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:17:57:01 -0300] "GET /rest/cursos HTTP/1.1" 200 92 http-bio-9090-exec-7 33
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:17:57:04 -0300] "GET /rest/cursos HTTP/1.1" 200 92 http-bio-9090-exec-8 41
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:17:57:40 -0300] "POST /rest/cursos HTTP/1.1" 201 - http-bio-9090-exec-9 139
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:17:57:46 -0300] "GET /rest/cursos/2 HTTP/1.1" 200 91 http-bio-9090-exec-10 30
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:17:57:50 -0300] "GET /rest/cursos HTTP/1.1" 200 173 http-bio-9090-exec-10 33
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:18:18:05 -0300] "PUT /rest/cursos/1 HTTP/1.1" 405 1045 http-bio-9090-exec-4 5
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:18:18:35 -0300] "PUT /rest/cursos/1 HTTP/1.1" 405 1045 http-bio-9090-exec-4 2
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:18:19:25 -0300] "GET /rest/cursos HTTP/1.1" 200 173 http-bio-9090-exec-4 34
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:18:20:21 -0300] "PUT /rest/cursos/1 HTTP/1.1" 500 85 http-bio-9090-exec-2 623
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:18:21:57 -0300] "GET /rest/cursos HTTP/1.1" 200 168 http-bio-9090-exec-4 235
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:18:22:11 -0300] "PUT /rest/cursos/2 HTTP/1.1" 500 16506 http-bio-9090-exec-5 114
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:18:22:47 -0300] "PUT /rest/cursos/2 HTTP/1.1" 500 94 http-bio-9090-exec-7 74
+0:0:0:0:0:0:0:1 - - [28/Jul/2018:18:24:21 -0300] "PUT /rest/cursos/2 HTTP/1.1" 200 98 http-bio-9090-exec-2 672

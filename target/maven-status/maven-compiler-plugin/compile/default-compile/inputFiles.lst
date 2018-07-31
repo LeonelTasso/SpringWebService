@@ -1,0 +1,10 @@
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/domain/Curso.java
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/service/CursoService.java
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/dao/CursoDaoImpl.java
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/config/SpringJpaConfig.java
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/dao/CursoDao.java
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/config/SpringRootConfig.java
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/domain/CargaHoraria.java
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/config/SpringInitConfig.java
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/resource/rest/CursoRestController.java
+/Users/leoneltasso/IdeaProjects/intro-spring-rest/src/main/java/br/com/leonel/tasso/curso/service/CursoServiceImpl.java
